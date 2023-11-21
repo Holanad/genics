@@ -296,9 +296,6 @@ $(document).ready(function() {
                 $(".popup").removeClass("open"); 
             }
         });
-        $('.modal-order').click(function() {
-            $(".popup-order").addClass("open");  
-        });
     }
     closeModal();
 

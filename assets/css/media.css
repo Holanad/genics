@@ -1929,9 +1929,6 @@
   .product-itog-cost__sale {
     font-size: 26px;
   }
-  .popup-order__title {
-    font-size: 26px;
-  }
 }
 
 @media screen and (max-width: 768px) {
@@ -2661,9 +2658,6 @@
   .product-itog-cost__sale {
     font-size: 24px;
     line-height: 28px;
-  }
-  .popup-order__title {
-    font-size: 24px;
   }
 }
 
@@ -3483,32 +3477,6 @@
   }
   .product-itog-cost__sale {
     font-size: 22px;
-  }
-  .popup-order .popup-wrapper {
-    padding: 20px;
-    width: 100%;
-  }
-  .popup-order__title {
-    font-size: 20px;
-    width: calc(100% - 58px);
-    margin-bottom: 24px;
-    line-height: 28px;
-  }
-  .popup-order-bottom {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-  }
-  .popup-order-bottom p {
-    margin: 8px 0;
-  }
-  .popup-order__button {
-    width: 100%;
-    text-align: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
   }
 }
 /*# sourceMappingURL=media.css.map */
